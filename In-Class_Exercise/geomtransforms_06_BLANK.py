@@ -131,7 +131,7 @@ def draw():                                                                 # Th
     # geometric transformation examples (uncomment "example_initTeatpot")
     #example_translate()                                                    # translate
     #example_scale()                                                        # scale
-    example_rotate()                                                       # rotate
+    #example_rotate()                                                       # rotate
 
     # composite transformation examples (comment out "example_initTeatpot")
     #example_rotate_tranlate()
