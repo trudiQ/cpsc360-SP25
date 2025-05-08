@@ -12,7 +12,7 @@ from OpenGL.GLU import *
 
 from OBJFileLoader_18 import *
 
-import numpy as np
+#import numpy as np
 from collections import defaultdict
 
 width, height = 800, 600                                                    # width and height of the screen created
